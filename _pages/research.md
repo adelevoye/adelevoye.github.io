@@ -12,11 +12,11 @@ author_profile: true
 
 ### Working Papers
 
-- Delevoye, Angele and Landemore, Helene. ''[When does deliberation Work? Results from a natural experiment in the French Great National Debate]'' (*under review*)
+- Delevoye, Angele and Landemore, Helene. ''When does deliberation Work? Results from a natural experiment in the French Great National Debate'' (*under review*)
 
-- Delevoye, Angele. ''[Ideology and polarization in Congressional hearings]'' 
+- Delevoye, Angele. ''Ideology and polarization in Congressional hearings'' 
 
-- Delevoye, Angele. ''[Descriptive and differential representations in Congressional hearings]'' 
+- Delevoye, Angele. ''Descriptive and differential representations in Congressional hearings'' 
 
 
 
