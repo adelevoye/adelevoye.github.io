@@ -2,7 +2,7 @@
 title: "Fall 2019, PLSC 500, Foundations of Statistical Inference"
 collection: teaching
 type: "Graduate course"
-permalink: 503 final paper guidelines.pdf
+permalink: /teaching/2019-fall-teaching-1
 venue: "Yale University, Political Science Department"
 location: "New Haven, CT"
 ---
