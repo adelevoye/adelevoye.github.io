@@ -1,0 +1,11 @@
+---
+title: "Fall 2020: PLSC 113, Introduction to American Politics"
+collection: teaching
+type: "Undergraduate Course"
+permalink: /teaching/2020-fall-teaching-3
+venue: "Yale University, Political Science Department"
+location: "New Haven, CT"
+---
+
+TA for 'Introduction to American Politics' (Fall 2020), introduction class to the American government and political science \ 
+Instructor: Christina Kinane

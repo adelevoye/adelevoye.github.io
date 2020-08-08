@@ -18,6 +18,7 @@ author_profile: true
 
 - Delevoye, Angele. ''Descriptive and differential representations in Congressional hearings'' 
 
+- Delevoye, Angele. ''School boards in the COVID crisis: decision-making and information processing, a field experiment'' 
 
 
 
