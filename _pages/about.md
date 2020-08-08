@@ -11,4 +11,6 @@ I am a PhD Candidate in Political Science at Yale University. My research intere
 
 Prior to Yale, I worked for the French Treasury in the United States, following American economic and financial developments for the French Government and focusing on financial regulation, budgetary, fiscal and health issues. I’ve also worked at the House of Representatives, where I followed debates around the Dodd Frank Act and Affordable Care Act adoptions in 2010.
 
+Outside of work, I spend most of my time playing or watching sports. When it comes to sports, I equally love applying statistical tools and appreciating the irrationality of it all. It's a balance I wish I could apply to my work.
+
 
