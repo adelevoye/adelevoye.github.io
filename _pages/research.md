@@ -14,7 +14,7 @@ author_profile: true
 
 - Delevoye, Angele and Landemore, Hélène. ''When does deliberation Work? Results from a natural experiment in the French Great National Debate'' (*under review*)
 
-- Delevoye, Angele. ''Ideology and polarization in Congressional hearings'' 
+- Delevoye, Angele. ''Ideology in Congressional hearings: do witnesses drive the polarization of elites?'' 
 
 - Delevoye, Angele. ''Descriptive and differential representations in Congressional hearings'' 
 
