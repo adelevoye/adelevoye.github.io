@@ -20,6 +20,7 @@ author_profile: true
 
 - Delevoye, Angele. ''School boards in the COVID crisis: decision-making and information processing, a field experiment'' 
 
+- Delevoye, Angele. ''How much did the WNBA contributed to Warnock's surprising surge in the 2020 Georgia Senate race?'' 
 
 
 
