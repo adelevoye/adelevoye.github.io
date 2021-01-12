@@ -22,6 +22,10 @@ author_profile: true
 
 - Delevoye, Angele. ''How much did the WNBA contributed to Warnock's surprising surge in the 2020 Georgia Senate race?'' 
 
+- Delevoye, Angele and Aronow, Peter. ''A causal inference approach to National Football League fourth down-and-short situations"
+
+- Delevoye, Angele and Aronow, Peter. ''Comparing baseball players' performances across time and leagues: an adjusted plus-minus metric using Bayesian methods"
+
 
 
 
