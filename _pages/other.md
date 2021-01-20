@@ -13,8 +13,6 @@ author_profile: true
 
 - Interview in Time Magazine's article ''[We Did That': Inside the WNBA’s Strategy to Support Raphael Warnock—and Help Democrats Win the Senate](https://time.com/5927075/atlanta-dream-warnock-loeffler/?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_term=sports_&linkId=108704380})' *Time Magazine* (2020) 
 
-- Interview in Time Magazine's article ''[We Did That': Inside the WNBA’s Strategy to Support Raphael Warnock—and Help Democrats Win the Senate](https://time.com/5927075/atlanta-dream-warnock-loeffler/?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_term=sports_&linkId=108704380})' *Time Magazine* (2020) 
-
 - Interview in Suddeutsche Zeitung's article ''[Atlanta Dream vs. Loeffler](https://www.sueddeutsche.de/sport/atlanta-dream-loeffler-wnba-1.5169392})' *Suddeutsche Zeitung* (2020) 
 
 
