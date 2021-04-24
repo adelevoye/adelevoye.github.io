@@ -13,14 +13,21 @@ author_profile: true
 ### Working Papers
 
 - Delevoye, Angele and Landemore, Hélène. ''When does deliberation Work? Results from a natural experiment in the French Great National Debate'' (*under review*)
-
+	- [Working Paper](https://drive.google.com/file/d/1egPphY4AussHBQOXRGwsA-odoVYBMRyq/view?usp=sharing)
+	
 - Delevoye, Angele. ''Ideology in Congressional hearings: do witnesses drive the polarization of elites?'' 
+	- [Working Paper](https://drive.google.com/file/d/1efKCveuOh7wIVaiGY2NzPmB1vewNSPS2/view?usp=sharing)
 
 - Delevoye, Angele. ''Descriptive and differential representations in Congressional hearings'' 
 
 - Delevoye, Angele. ''School boards in the COVID crisis: decision-making and information processing, a field experiment'' 
+	- [Working Paper](https://drive.google.com/file/d/1eaIRm57zzFLp0D01LpWypcrCMksl6u3i/view?usp=sharing)
+	- [Pre-Analysis Plan](https://osf.io/4xjcu)
 
 - Delevoye, Angele. ''How much did the WNBA contributed to Warnock's surprising surge in the 2020 Georgia Senate race?'' 
+
+- Delevoye, Angele. ''Speak up and dribble: an investigation of the political and business impacts of WNBA
+players’ activism'' 
 
 - Delevoye, Angele and Aronow, Peter. ''A causal inference approach to National Football League fourth down-and-short situations"
 
