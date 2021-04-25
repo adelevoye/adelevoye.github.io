@@ -14,9 +14,11 @@ author_profile: true
 
 - Delevoye, Angele and Landemore, Hélène. ''When does deliberation Work? Results from a natural experiment in the French Great National Debate'' (*under review*)
 	- [Working Paper](https://drive.google.com/file/d/1egPphY4AussHBQOXRGwsA-odoVYBMRyq/view?usp=sharing)
+	- [Code](https://github.com/adelevoye/Citizen-Assemblies-France)
 	
 - Delevoye, Angele. ''Ideology in Congressional hearings: do witnesses drive the polarization of elites?'' 
 	- [Working Paper](https://drive.google.com/file/d/1efKCveuOh7wIVaiGY2NzPmB1vewNSPS2/view?usp=sharing)
+	- [Code](https://github.com/adelevoye/congress_hearings)
 
 - Delevoye, Angele. ''Descriptive and differential representations in Congressional hearings'' 
 
