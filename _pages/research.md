@@ -16,7 +16,7 @@ author_profile: true
 	- [Working Paper](https://drive.google.com/file/d/1egPphY4AussHBQOXRGwsA-odoVYBMRyq/view?usp=sharing)
 	- [Code](https://github.com/adelevoye/Citizen-Assemblies-France)
 	
-- Delevoye, Angele. ''Ideology in Congressional hearings: do witnesses drive the polarization of elites?'' 
+- Delevoye, Angele. ''Ideology in Congressional hearings: do witnesses drive the polarization of elites?'' (*under review*)
 	- [Working Paper](https://drive.google.com/file/d/1efKCveuOh7wIVaiGY2NzPmB1vewNSPS2/view?usp=sharing)
 	- [Code](https://github.com/adelevoye/congress_hearings)
 
