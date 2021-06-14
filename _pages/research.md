@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Journal Articles
+### Peer-reviewed articles
 
 - Delevoye, Angele and Sävje, Fredrik. ''[Consistency of the Horvitz–Thompson estimator under general sampling and experimental designs](https://www.sciencedirect.com/science/article/abs/pii/S0378375819301211),'' *Journal of Statistical Planning and Inference* (2020): 190-197.  
 
@@ -36,5 +36,9 @@ players’ activism''
 - Delevoye, Angele and Aronow, Peter. ''Comparing baseball players' performances across time and leagues: an adjusted plus-minus metric using Bayesian methods"
 
 
+### Other Publications
+
+- Delevoye, Angele and Schwarz, Julie. ''[Applications telephoniques et lutte contre la COVID-19: la difficile conciliation des exigences juridiques et methodologiques.](https://www.lexiskiosque.fr/catalog/cahiers-de-droit-de-lentreprise),''  
+*Cahiers de Droit de l'Entreprise* (2021): Num.3, June 2021.  
 
 
