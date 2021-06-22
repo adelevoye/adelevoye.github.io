@@ -9,10 +9,10 @@ redirect_from:
 
 <div style="text-align: justify">  
 
-I am a PhD Candidate in Political Science at Yale University. My research interests are American Politics, policy-making and quantitative methods. More specifically, I explore how different institutional settings process information, evidence and science to produce policies. Current projects include investigations of these questions in Congress, school boards and Mini Publics. 
+I am a PhD Candidate in Political Science at Yale University. My research interests are American Politics and quantitative methods. I explore the political and business consequences of sports leagues' and athletes' political activism. I investigate whether athletes can change minds, and whether and how their activism changes how the leagues are perceived, trying to understand the potential business and strategic consequences for the leagues.  
 <br>
 <br>
-In a different set of projects, I explore the political and business consequences of sports leagues' and athletes' political activism. I investigate whether athletes' activism can change minds, with a focus on trying to identify who the people most likely to be convinced are. I also investigate whether and how this activism changes how the leagues are perceived, trying to understand the potential business and strategic consequences for the leagues.  
+In a different set of projects, I explore how different institutional settings process information, evidence and science to produce policies. Current projects include investigations of these questions in Congress, school boards and Mini Publics. 
 <br>
 <br>
 Prior to Yale, I worked for the French Treasury in the United States, following American economic and financial developments for the French Government and focusing on financial regulation, budgetary, fiscal and health issues. I’ve also worked at the House of Representatives, where I followed debates around the Dodd Frank Act and Affordable Care Act adoptions in 2010.

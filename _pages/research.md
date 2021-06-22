@@ -30,6 +30,7 @@ author_profile: true
 
 - Delevoye, Angele. ''Speak up and dribble: an investigation of the political and business impacts of WNBA
 players’ activism'' 
+	- [Working Paper](https://drive.google.com/file/d/1gm3NDqITrmAqwtZwN-RsWEVPbDd2hcyN/view?usp=sharing)
 
 - Delevoye, Angele and Aronow, Peter. ''A causal inference approach to National Football League fourth down-and-short situations"
 
