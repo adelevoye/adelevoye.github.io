@@ -12,6 +12,14 @@ author_profile: true
 
 ### Working Papers
 
+- Delevoye, Angele. ''The business consequences of speaking out: affective evaluation impacts of athletes' political activism'' 
+	- [Working Paper](https://drive.google.com/file/d/1-yIsG4XbKoZ_8TCGGzMexpkiQVFN_qbs/view?usp=sharing)
+	
+- Delevoye, Angele. ''Group cues and persuasion in female athletes' activism'' 
+	- [Working Paper](https://drive.google.com/file/d/104pw1ggjESzJuGEdpIji7IvUaDl7jk1W/view?usp=sharing)
+
+- Delevoye, Angele. ''How did the WNBA influence the 2020 Senate race in Georgia?'' 
+
 - Delevoye, Angele and Landemore, Hélène. ''When does deliberation Work? Results from a natural experiment in the French Great National Debate'' (*under review*)
 	- [Working Paper](https://drive.google.com/file/d/1egPphY4AussHBQOXRGwsA-odoVYBMRyq/view?usp=sharing)
 	- [Code](https://github.com/adelevoye/Citizen-Assemblies-France)
@@ -26,11 +34,6 @@ author_profile: true
 	- [Working Paper](https://drive.google.com/file/d/1eaIRm57zzFLp0D01LpWypcrCMksl6u3i/view?usp=sharing)
 	- [Pre-Analysis Plan](https://osf.io/4xjcu)
 
-- Delevoye, Angele. ''How much did the WNBA contributed to Warnock's surprising surge in the 2020 Georgia Senate race?'' 
-
-- Delevoye, Angele. ''Speak up and dribble: an investigation of the political and business impacts of WNBA
-players’ activism'' 
-	- [Working Paper](https://drive.google.com/file/d/1gm3NDqITrmAqwtZwN-RsWEVPbDd2hcyN/view?usp=sharing)
 
 - Delevoye, Angele and Aronow, Peter. ''A causal inference approach to National Football League fourth down-and-short situations"
 
