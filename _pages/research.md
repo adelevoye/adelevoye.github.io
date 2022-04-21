@@ -12,26 +12,27 @@ author_profile: true
 
 ### Working Papers
 
-- Delevoye, Angele. ''The business consequences of speaking out: affective evaluation impacts of athletes' political activism'' 
-	- [Working Paper](https://drive.google.com/file/d/1-yIsG4XbKoZ_8TCGGzMexpkiQVFN_qbs/view?usp=sharing)
+- Delevoye, Angele. ''The business consequences of speaking out: affective evaluation impacts of athletes’ political activism'' 
+	- [Working Paper](https://drive.google.com/file/d/1gQcuJRYKls9GZF95khz71vdDSLyNZ0rP/view?usp=sharing)
 	
-- Delevoye, Angele. ''Group cues and persuasion in female athletes' activism'' 
-	- [Working Paper](https://drive.google.com/file/d/104pw1ggjESzJuGEdpIji7IvUaDl7jk1W/view?usp=sharing)
+- Delevoye, Angele. ''Group cues and persuasion from non-political actors: can WNBA players change policy attitudes?'' 
+	- [Working Paper](https://drive.google.com/file/d/1glaeHDU5bMmyxMbCzj8Xb8bu2c2fcQUY/view?usp=sharing)
 
-- Delevoye, Angele. ''How did the WNBA influence the 2020 Senate race in Georgia?'' 
+- Delevoye, Angele. ''When athletes shape political events: the WNBA’s impact on the 2020 Senate race in Georgia'' 
+	- [Working Paper](https://drive.google.com/file/d/1grWk-ijCAz8nLcNkKtPGkPKEL-fNjnFF/view?usp=sharing)
 
 - Delevoye, Angele and Landemore, Hélène. ''When does deliberation Work? Results from a natural experiment in the French Great National Debate'' (*under review*)
-	- [Working Paper](https://drive.google.com/file/d/1egPphY4AussHBQOXRGwsA-odoVYBMRyq/view?usp=sharing)
+	- [Working Paper](https://drive.google.com/file/d/1-BiwU-GXMPbAtD6Sn-wG2Z3wo1qcg8ZD/view?usp=sharing)
 	- [Code](https://github.com/adelevoye/Citizen-Assemblies-France)
 	
 - Delevoye, Angele. ''Ideology in Congressional hearings: do witnesses drive the polarization of elites?'' (*under review*)
-	- [Working Paper](https://drive.google.com/file/d/1efKCveuOh7wIVaiGY2NzPmB1vewNSPS2/view?usp=sharing)
+	- [Working Paper](https://drive.google.com/file/d/1-LD0sYr3zKwMP8-G1eXrxDWjiIR6RVdv/view?usp=sharing)
 	- [Code](https://github.com/adelevoye/congress_hearings)
 
 - Delevoye, Angele. ''Descriptive and differential representations in Congressional hearings'' 
 
 - Delevoye, Angele. ''School boards in the COVID crisis: decision-making and information processing, a field experiment'' 
-	- [Working Paper](https://drive.google.com/file/d/1eaIRm57zzFLp0D01LpWypcrCMksl6u3i/view?usp=sharing)
+	- [Working Paper](https://drive.google.com/file/d/1-2rcwRetEJ6J8QeSb8JWF4hb4noWUuN5/view?usp=sharing)
 	- [Pre-Analysis Plan](https://osf.io/4xjcu)
 
 
